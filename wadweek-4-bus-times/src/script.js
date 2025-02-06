@@ -35,7 +35,7 @@ const BusTime = (props) => {
   if (props.waitingTime >= 1) {
     const minutes = Math.floor(props.waitingTime / 60000);
     const seconds = Math.floor((props.waitingTime - minutes * 60000) / 1000);
-    
+
     // Messy, but seconds is always positive so it works.
     if (seconds < 10) {
       wait = minutes + ":0" + seconds;
@@ -47,12 +47,12 @@ const BusTime = (props) => {
     <Card>
       <CardContent>
         <Grid container spacing={2}>
-          <Grid xs={10}>
+          <Grid xs={8}>
             <Typography variant="body1">
-              {props.bus} to {props.destination}
+              <span class="busNumber">{props.bus}</span> to {props.destination}
             </Typography>
           </Grid>
-          <Grid xs={2}>
+          <Grid xs={4}>
             <Typography variant="body1" align="right">
               {wait}
             </Typography>
@@ -173,7 +173,7 @@ const App = () => {
           </Menu>
 
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Barnes station Bus times
+            Barnes station bus times
           </Typography>
         </Toolbar>
       </AppBar>

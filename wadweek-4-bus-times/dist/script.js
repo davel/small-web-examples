@@ -47,12 +47,12 @@ const BusTime = props => {
     React.createElement(Card, null, /*#__PURE__*/
     React.createElement(CardContent, null, /*#__PURE__*/
     React.createElement(Grid, { container: true, spacing: 2 }, /*#__PURE__*/
-    React.createElement(Grid, { xs: 10 }, /*#__PURE__*/
-    React.createElement(Typography, { variant: "body1" },
-    props.bus, " to ", props.destination)), /*#__PURE__*/
+    React.createElement(Grid, { xs: 8 }, /*#__PURE__*/
+    React.createElement(Typography, { variant: "body1" }, /*#__PURE__*/
+    React.createElement("span", { class: "busNumber" }, props.bus), " to ", props.destination)), /*#__PURE__*/
 
 
-    React.createElement(Grid, { xs: 2 }, /*#__PURE__*/
+    React.createElement(Grid, { xs: 4 }, /*#__PURE__*/
     React.createElement(Typography, { variant: "body1", align: "right" },
     wait))))));
 
@@ -172,7 +172,7 @@ const App = () => {
     React.createElement(MenuItem, { onClick: handleClose }, "Logout")), /*#__PURE__*/
 
 
-    React.createElement(Typography, { variant: "h6", component: "div", sx: { flexGrow: 1 } }, "Barnes station Bus times"))), /*#__PURE__*/
+    React.createElement(Typography, { variant: "h6", component: "div", sx: { flexGrow: 1 } }, "Barnes station bus times"))), /*#__PURE__*/
 
 
 
