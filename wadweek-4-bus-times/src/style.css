@@ -1,0 +1,9 @@
+span.busNumber {
+  font-family: "monospace";
+  font-weight: 900;
+  color: #ffffff;
+  background-color: #000000;
+  border-width: 2px;
+  border-color: #000000;
+  border-style: solid;
+}
