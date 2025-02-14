@@ -17,11 +17,12 @@
       },
       {
          "src" : "https://small-web-examples.etheth.eu/bus-manifest/bus.svg",
-         "type" : "image/svg"
+         "type" : "image/xml+svg"
       }
    ],
    "name" : "Barnes station bus times",
    "short_name" : "Bus times",
-   "start_url" : ".",
+   "start_url" : "https://small-web-examples.etheth.eu/wadweek-4-bus-times/dist/index.html",
+   "id" : "0c3e03b5-dee0-4b47-a026-22b1a69eee5f",
    "theme_color" : "#000000"
 }
