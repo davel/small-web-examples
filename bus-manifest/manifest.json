@@ -1,0 +1,27 @@
+{
+   "background_color" : "#ffffff",
+   "categories" : [
+      "travel"
+   ],
+   "display" : "fullscreen",
+   "icons" : [
+      {
+         "sizes" : "192x192",
+         "src" : "https://small-web-examples.etheth.eu/bus-manifest/bus-192x192.png",
+         "type" : "image/png"
+      },
+      {
+         "sizes" : "512x512",
+         "src" : "https://small-web-examples.etheth.eu/bus-manifest/bus-512x512.png",
+         "type" : "image/png"
+      },
+      {
+         "src" : "https://small-web-examples.etheth.eu/bus-manifest/bus.svg",
+         "type" : "image/svg"
+      }
+   ],
+   "name" : "Barnes station bus times",
+   "short_name" : "Bus times",
+   "start_url" : ".",
+   "theme_color" : "#000000"
+}

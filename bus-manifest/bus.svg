@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="127.5872mm"
+   height="127.5872mm"
+   viewBox="0 0 127.58719 127.5872"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="bus.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.66724888"
+     inkscape:cx="161.1093"
+     inkscape:cy="428.62567"
+     inkscape:window-width="1850"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-59.695205,-35.06447)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ff00ce;fill-opacity:1;stroke:#00e200;stroke-width:30.2362;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path91"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="134.31435"
+       sodipodi:cy="319.6954"
+       sodipodi:r1="219.50475"
+       sodipodi:r2="109.75237"
+       sodipodi:arg1="0.59425312"
+       sodipodi:arg2="1.2225717"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 316.18871,442.59393 171.7651,422.86044 73.633171,530.64594 47.771485,387.19293 -85.063049,327.17148 43.377166,258.24614 59.412835,113.36534 164.65494,214.22014 307.40006,184.70034 244.00304,315.95737 Z"
+       transform="matrix(0.26458333,0,0,0.26458333,93.684906,13.565619)"
+       inkscape:transform-center-x="4.9613387"
+       inkscape:transform-center-y="0.6112482" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;line-height:125%;font-family:rsfs10;-inkscape-font-specification:'rsfs10, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="74.826797"
+       y="111.10539"
+       id="text1580"><tspan
+         sodipodi:role="line"
+         id="tspan1578"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:rsfs10;-inkscape-font-specification:'rsfs10, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583px"
+         x="74.826797"
+         y="111.10539">BUS</tspan></text>
+  </g>
+</svg>
