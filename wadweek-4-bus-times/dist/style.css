@@ -7,3 +7,16 @@ span.busNumber {
   border-color: #000000;
   border-style: solid;
 }
+
+span.stopPoint {
+  font-family: "monospace";
+  font-weight: 900;
+  color: #ffffff;
+  background-color: #ff0000;
+  border-width: 1px;
+  border-color: #000000;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 3px;
+  margin: 10px;
+}
