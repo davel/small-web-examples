@@ -102,7 +102,7 @@ function MainScreen(props) {
       image: "https://github.com/davel/davel.github.io/blob/master/IMG_2339.JPG?raw=true",
       title: "Manx cat",
       alt: "A Manx cat",
-      text: "Manx cats have no tail but do not seem to be mind." })))));
+      text: "Manx cats have no tail yet do not seem to mind." })))));
 
 
 
